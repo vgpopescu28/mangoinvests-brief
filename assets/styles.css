@@ -165,10 +165,22 @@ h3 {
   font-weight: 720;
 }
 
+.intro-summary,
 .market-context {
   max-width: 790px;
   margin-bottom: 28px;
   color: #c8ccd1;
+}
+
+.intro-summary {
+  max-width: 880px;
+  font-size: 20px;
+  font-weight: 580;
+  line-height: 1.55;
+}
+
+.market-context {
+  color: #aeb4bb;
   font-size: 19px;
   line-height: 1.6;
 }

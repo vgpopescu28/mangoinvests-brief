@@ -82,6 +82,29 @@ summary:focus-visible {
   text-decoration: none;
 }
 
+.brand-group {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.release-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  color: #8f969e;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.release-status > span {
+  width: 6px;
+  height: 6px;
+  background: #ff9d2e;
+}
+
 .brand-mark {
   display: inline-grid;
   width: 30px;
@@ -715,6 +738,18 @@ h3 {
 
   nav {
     gap: 16px;
+  }
+
+  .brand-group {
+    gap: 9px;
+  }
+
+  .brand {
+    gap: 7px;
+  }
+
+  .release-status {
+    font-size: 9px;
   }
 
   .brief-intro,

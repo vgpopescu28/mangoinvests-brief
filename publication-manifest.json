@@ -1,8 +1,8 @@
 {
-  "fileCount": 11,
-  "latestRunDate": "2026-09-02",
-  "latestRunId": "morning-brief-2026-09-02-radar-r2",
-  "releaseChecksum": "sha256:419edb6d8cc3aeae22271b618364b66c3a38af89b3e2fdbbf8202945d408921c",
+  "fileCount": 12,
+  "latestRunDate": "2026-09-03",
+  "latestRunId": "morning-brief-2026-09-03-codex",
+  "releaseChecksum": "sha256:d1d27b1b028e4581a1d573990a92eab00c7870e05c5e7f3f488be0bc0d3d9385",
   "schemaVersion": "public-publication/1.0.0",
-  "siteChecksum": "sha256:93d231bafd04e06e18caac1b3a8f297a8ea7e40e20d81113cd7b5e95fc6d87e3"
+  "siteChecksum": "sha256:e8643eeeb1897b71417fa281826aa6f089a5b84886d0c2e0ec75b434d5e7f256"
 }

@@ -1,8 +1,8 @@
 {
-  "fileCount": 15,
-  "latestRunDate": "2026-09-07",
-  "latestRunId": "manual-brief-2026-09-07-154223",
-  "releaseChecksum": "sha256:6262945ded8fcbe8ac96996fda3b682363c48ddcbc088d4d3c813616b303cd79",
+  "fileCount": 16,
+  "latestRunDate": "2026-09-08",
+  "latestRunId": "morning-brief-2026-09-08-codex",
+  "releaseChecksum": "sha256:76f6ad4158febf62a11fe4a1923b577048414b54cb15d6068f7566343121cffc",
   "schemaVersion": "public-publication/1.0.0",
-  "siteChecksum": "sha256:b236b23f1f45a1cb86431534efa5ac7e26f5482b6e29cdd790d81ebf04f6d807"
+  "siteChecksum": "sha256:f92ee9650daf9bf9d0b63efc7e0e570b9444dd93fbac3ca826212917560fb7c5"
 }

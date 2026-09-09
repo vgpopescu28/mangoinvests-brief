@@ -1,8 +1,8 @@
 {
-  "fileCount": 16,
-  "latestRunDate": "2026-09-08",
-  "latestRunId": "morning-brief-2026-09-08-codex",
-  "releaseChecksum": "sha256:76f6ad4158febf62a11fe4a1923b577048414b54cb15d6068f7566343121cffc",
+  "fileCount": 17,
+  "latestRunDate": "2026-09-09",
+  "latestRunId": "morning-brief-2026-09-09-codex",
+  "releaseChecksum": "sha256:270f54f3c10f0789289446de7125b83c75191d42846c78664ca6ee6993a137b6",
   "schemaVersion": "public-publication/1.0.0",
-  "siteChecksum": "sha256:f92ee9650daf9bf9d0b63efc7e0e570b9444dd93fbac3ca826212917560fb7c5"
+  "siteChecksum": "sha256:a4550e7b1587357aeffd6de14788553e2d89930b4a954423691f10944a728128"
 }
